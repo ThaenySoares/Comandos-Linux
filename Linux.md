@@ -1,3 +1,5 @@
+# Comandos linux
+
 comando sudo - concede privilegios de administrador
 comando apt - gerenciador de pacotes
 
