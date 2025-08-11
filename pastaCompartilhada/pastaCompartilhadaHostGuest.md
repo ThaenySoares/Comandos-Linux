@@ -10,7 +10,7 @@
 - cd é comando dentro da pasta
 - cd/media
 - cd sf_virtualbox-PastaCompartilhada/  // se usar essse comando sem adiconar o usuário vai dar permissão negada
-- sudo adduser$USER vboxsf -> adiciona um novo usuário ao grupo
+- sudo adduser $USER vboxsf -> adiciona um novo usuário ao grupo
 - sudo reboot
 
 - Após reincializar você executa os comandos
